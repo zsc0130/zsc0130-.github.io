@@ -5,6 +5,8 @@ description: "Experience & Interests"
 header-img: "img/me.jpg"
 ---
 
+   
+
 #### **Experience**
 
 ​		I am currently a junior **undergraduate student** majoring in **Automation** at the School of Control Engineering, **Northeastern University (Qinhuangdao)**. My academic performance has been consistently strong, with a GPA of **4.19/5.0** (average score **91.9**), and I was awarded the **National Scholarship** in 2021. In my current research project, I am applying **Bio-inspired Algorithms** to optimize the PID controller of magnetic levitation systems, with the aim of improving their anti-interference performance. 
