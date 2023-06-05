@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "文章归档"
+title: "Blogs"
+description: "胡思乱想"
 header-img: "img/orange.jpg"
 ---
 
