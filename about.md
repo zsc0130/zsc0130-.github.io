@@ -24,6 +24,7 @@ header-img: "img/me.jpg"
 
 
 #### Hobbies
+
 **Photography**: I enjoy using my camera to capture the beauty of landscapes, people, and fleeting moments that I love. (I will be updating some of my works on my personal website.)
 
 **Traveling**: Spending time with loved ones while experiencing different cultures and ways of life is something that I find fulfilling and always piques my curiosity.
